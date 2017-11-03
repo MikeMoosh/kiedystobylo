@@ -23,7 +23,11 @@
     },
     "versionFirst": "4.4.0",
     "uniqCompNum": 3,
-    "versionPublish": "4.4.0"
+    "versionPublish": "4.4.0",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "chapaj ciasteczko albo wyjdź :) <chapaj ciasteczko</a>."
   },
   "pages": {
     "index.html": {
@@ -98,7 +102,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">SUBSKRYBUJ</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#bottom\">SUBSKRYBUJ</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -189,8 +193,8 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/nosacz2-779x517.jpg",
             "parallax": true,
